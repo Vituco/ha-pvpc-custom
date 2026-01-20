@@ -9,6 +9,6 @@
   "issue_tracker": "https://github.com/Vituco/ha-pvpc-custom/issues",
   "loggers": ["aiopvpc"],
   "quality_scale": "custom",
-  "requirements": ["aiopvpc>=4.3.1"],
+  "requirements": ["aiopvpc @ https://github.com/Vituco/aiopvpc/archive/refs/heads/master.zip"],
   "version": "1.2.2"
 }
