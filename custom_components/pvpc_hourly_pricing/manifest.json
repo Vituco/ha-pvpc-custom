@@ -8,7 +8,7 @@
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/Vituco/ha-pvpc-custom/issues",
   "loggers": ["aiopvpc"],
-  "quality_scale": "platinum",
+  "quality_scale": "custom",
   "requirements": ["aiopvpc>=4.3.1"],
   "version": "1.2.2"
 }
